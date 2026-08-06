@@ -151,7 +151,7 @@ Enter your **Groq API Key** in the application's sidebar when running the app.
 
 # 👨‍💻 Developed By
 
-**Vivek G L**
+**Vijay kumar ks**
 
 AI & Agentic AI Developer
 
